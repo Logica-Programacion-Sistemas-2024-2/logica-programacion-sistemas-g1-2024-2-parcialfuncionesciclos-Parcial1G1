@@ -8,8 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
 
-    @Test
-    void testCalcularConsumoGasolina() {
+    @Test void testCalcularConsumoGasolina() {
         // Definimos un margen de error para las comparaciones de decimales
         float delta = 0.1f;
 
