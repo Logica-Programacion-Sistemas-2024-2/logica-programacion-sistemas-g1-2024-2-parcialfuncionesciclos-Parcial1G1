@@ -16,7 +16,6 @@ public class App {
             - Un float representando los litros de gasolina consumidos
     */
     //------------------------------------------------------------------
-    //Implemente la funcion en este espacio
     
     public static float calcularConsumoGasolina(float kmRecorrido){
         return ((kmRecorrido * 55) / 750);
