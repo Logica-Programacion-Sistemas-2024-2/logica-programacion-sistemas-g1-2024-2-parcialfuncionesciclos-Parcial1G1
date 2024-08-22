@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
         
         // Implementar la logica de solucion
-        
+        //
     }
 
     /*  Implemente una funcion llamada calcularConsumoGasolina que cumpla con las siguientes caracteristicas
